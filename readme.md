@@ -9,11 +9,11 @@ A Python-based drowsiness detection system using OpenCV and dlib.
 
 ## Installation
 1. Clone this repository in your terminal/cmd:
-   git clone https://github.com/aujasjain/DrowsyDetector.git
-   cd DrowsyDetector
+   - git clone https://github.com/aujasjain/DrowsyDetector.git
+   - cd DrowsyDetector
 
-2. Install dependencies:
-   pip install -r requirements.txt
+3. Install dependencies:
+   - pip install -r requirements.txt
 
-3. Run the program:
-   python3 src/main.py
+4. Run the program:
+   - python3 src/main.py
